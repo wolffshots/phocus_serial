@@ -6,7 +6,7 @@ import (
 	"go.bug.st/serial"      // rs232 serial
 	"log"                   // logging
 	"time"                  // timeouts
-    "github.com/wolffshots/phocus_crc" // checksum generation
+    "github.com/wolffshots/phocus_crc/crc" // checksum generation
 )
 
 var port serial.Port
