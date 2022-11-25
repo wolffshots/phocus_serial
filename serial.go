@@ -1,4 +1,4 @@
-package serial
+package phocus_serial
 
 import (
 	"errors"                           // creating custom err messages
