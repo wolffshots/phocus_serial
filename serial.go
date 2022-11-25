@@ -1,12 +1,12 @@
 package serial
 
 import (
-	"errors"                // creating custom err messages
-	"fmt"                   // formatting
-	"go.bug.st/serial"      // rs232 serial
-	"log"                   // logging
-	"time"                  // timeouts
-    "github.com/wolffshots/phocus_crc/crc" // checksum generation
+	"errors"                               // creating custom err messages
+	"fmt"                                  // formatting
+	"github.com/wolffshots/phocus_crc/crc" // checksum generation
+	"go.bug.st/serial"                     // rs232 serial
+	"log"                                  // logging
+	"time"                                 // timeouts
 )
 
 var port serial.Port
