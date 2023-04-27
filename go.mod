@@ -3,7 +3,7 @@ module github.com/wolffshots/phocus_serial
 go 1.19
 
 require (
-	github.com/wolffshots/phocus_crc v0.0.0-20230426095151-f366c86994c3
+	github.com/wolffshots/phocus_crc v0.0.0-20230426105240-c3f33a1eb597
 	go.bug.st/serial v1.4.0
 )
 

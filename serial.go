@@ -28,7 +28,7 @@ func Setup() error { // TODO add error handling
 // The input should be the "payload" string as
 // the CRC is calculated and added to that in Write
 func Write(input string) (int, error) {
-    message, err := phocus_crc.Encode(input)
+	message, err := phocus_crc.Encode(input)
 	if err != nil {
 		log.Fatal(err)
 	}

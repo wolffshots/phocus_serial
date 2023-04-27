@@ -5,12 +5,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/sigurn/crc16 v0.0.0-20211026045750-20ab5afb07e3 h1:aQKxg3+2p+IFXXg97McgDGT5zcMrQoi0EICZs8Pgchs=
 github.com/sigurn/crc16 v0.0.0-20211026045750-20ab5afb07e3/go.mod h1:9/etS5gpQq9BJsJMWg1wpLbfuSnkm8dPF6FdW2JXVhA=
 github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
-github.com/wolffshots/phocus_crc v0.0.0-20221125130913-c8189e3000fd h1:uKan01E4fV2EP202JyDPB0T9mSOwr94wbEsfh+Ja+G0=
-github.com/wolffshots/phocus_crc v0.0.0-20221125130913-c8189e3000fd/go.mod h1:mVr8Z32dnNTzYB+vQHsXAJgL/9AY/no0LXPkxIsgPIg=
-github.com/wolffshots/phocus_crc v0.0.0-20221125184445-3cd1e82c3d28 h1:jfWOn4riH9TEvHEIkze+irgOsj0HJBx9It+v1JcPvTk=
-github.com/wolffshots/phocus_crc v0.0.0-20221125184445-3cd1e82c3d28/go.mod h1:mVr8Z32dnNTzYB+vQHsXAJgL/9AY/no0LXPkxIsgPIg=
-github.com/wolffshots/phocus_crc v0.0.0-20230426095151-f366c86994c3 h1:shkXFaJRl4bkrH4vDZTzCHsC6nTY8YE0aaePM2UpSbM=
-github.com/wolffshots/phocus_crc v0.0.0-20230426095151-f366c86994c3/go.mod h1:mVr8Z32dnNTzYB+vQHsXAJgL/9AY/no0LXPkxIsgPIg=
+github.com/wolffshots/phocus_crc v0.0.0-20230426105240-c3f33a1eb597 h1:6ytTGqm5GT/2naFmdwH3eGDgrQD84b0xTseXzo6tdJU=
+github.com/wolffshots/phocus_crc v0.0.0-20230426105240-c3f33a1eb597/go.mod h1:mVr8Z32dnNTzYB+vQHsXAJgL/9AY/no0LXPkxIsgPIg=
 go.bug.st/serial v1.4.0 h1:IXHzPVbUBbql66lQZ1iV9LWzGXT5lh6S9gZxHK/KyQE=
 go.bug.st/serial v1.4.0/go.mod h1:z8CesKorE90Qr/oRSJiEuvzYRKol9r/anJZEb5kt304=
 golang.org/x/sys v0.0.0-20210823070655-63515b42dcdf h1:2ucpDCmfkl8Bd/FsLtiD653Wf96cW37s+iGx93zsu4k=
